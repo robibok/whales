@@ -1,6 +1,6 @@
 # Winning solution for the Right Whale Recognition competition on Kaggle
 
-A detailed description of the approach can be found on <http://deepsense.io/deep-learning-right-whale-recognition-kaggle>.
+A detailed description of the approach can be found on <https://blog.deepsense.ai/deep-learning-right-whale-recognition-kaggle/>.
 
 ## Requirements
 - a bunch of Python libraries (try `pip install -r requirements.txt`)
