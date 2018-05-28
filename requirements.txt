@@ -1,0 +1,12 @@
+Theano
+bunch
+tabulate
+termcolor
+enum34
+matplotlib
+MarkupSafe
+scikit-image
+setproctitle
+pandas
+pymongo
+mock
